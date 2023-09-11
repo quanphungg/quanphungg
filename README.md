@@ -19,7 +19,7 @@
 	<img src="https://komarev.com/ghpvc/?username=mialunn&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1> Hi, I'm Quan Phung ✌️ </h1>h1>
+<h1> Hi, I'm Quan Phung ✌️ </h1>
 
 <div id="introduction-about-myself" align="center">
 	<i>
@@ -30,7 +30,7 @@
 </div>
 
 # My statistics
-<div id="top-langs" align="center">
+<p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialunn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
