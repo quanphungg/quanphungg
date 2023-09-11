@@ -30,9 +30,9 @@
 </div>
 
 # My statistics
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialunn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mialunn" />
+</a>
 
 # :hammer_and_wrench: Languages and Tools :
 <div> 
