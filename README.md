@@ -30,9 +30,11 @@
 </div>
 
 # My statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mialunn&show_icons=true&theme=transparent" />
-</a>
+<div id="statistic" align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mialunn&show_icons=true&theme=transparent" />
+	</a>
+</div>
 
 # :hammer_and_wrench: Languages and Tools :
 <div> 
