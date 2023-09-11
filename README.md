@@ -23,7 +23,8 @@
 ❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. ❞
 
 # My statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mialunn&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialunn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # :hammer_and_wrench: Languages and Tools :
