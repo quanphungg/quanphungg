@@ -19,7 +19,7 @@
 </div>
 
 <div id="hello-message" align="center">
-<h1> Hi, I'm Quan Phung ✌️ </h
+<h1> Hi, I'm Quan Phung ✌️ </h1>
 	
 <div id="introduction-about-myself" align="center">
 		<i>
