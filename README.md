@@ -23,7 +23,7 @@
 	
 <div id="introduction-about-myself" align="center">
 		<i>
-		❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal
+		❝ I'm currently a freshman at FPT University Ho Chi Minh branch and majoring in Software Engineer. My main goal
 		is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. You can connect to me by adding me 
 		on Facebook or Discord. ❞
 		</i>
