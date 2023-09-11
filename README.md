@@ -23,15 +23,15 @@
 
 <div id="introduction-about-myself" align="center">
 	<i>
-	❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal/
-	is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. You can connect to me by adding me/ 
+	❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal
+	is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. You can connect to me by adding me 
 	on Facebook or Discord. ❞
 	</i>
 </div>
 
 # My statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mialunn" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mialunn&show_icons=true&theme=dracula" />
 </a>
 
 # :hammer_and_wrench: Languages and Tools :
