@@ -22,11 +22,17 @@
 <h1> Hi, I'm Quan Phung ✌️ </h1>h1>
 
 <div id="introduction-about-myself" align="center">
-	❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. You can connect to me by adding me on Facebook or Discord. ❞
+	<i>
+	❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal/
+	is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. You can connect to me by adding me/ 
+	on Facebook or Discord. ❞
+	</i>
 </div>
 
 # My statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialunn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="top-langs" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mialunn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 # :hammer_and_wrench: Languages and Tools :
 <div> 
