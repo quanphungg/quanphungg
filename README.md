@@ -32,7 +32,7 @@
 </div>
 
 <div id="statistic-message" align="center">
-	Profile Insight
+	<h1>Profile Insight</h1>
 </div>
 
 <div id="statistic" align="center">
