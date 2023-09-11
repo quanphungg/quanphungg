@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -16,4 +17,16 @@
 
 <div id="github-page-view" align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mialunn&style=flat-square&color=blue" alt=""/>
+</div>
+
+# Hi, I'm Quan Phung ✌️
+❝ I'm currently a freshman at FPT University Ho Chi Minh branch, my major is Software Engineer. My main goal is becoming a DevOps Engineer and I'm trying hard day by day to achieve it. ❞
+
+### :hammer_and_wrench: Languages and Tools :
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Java" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
