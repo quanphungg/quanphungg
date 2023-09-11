@@ -19,7 +19,9 @@
 	<img src="https://komarev.com/ghpvc/?username=mialunn&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1> Hi, I'm Quan Phung ✌️ </h1>
+<div id="hello-message" align="center">
+	<h1> Hi, I'm Quan Phung ✌️ </h1>
+</div>
 
 <div id="introduction-about-myself" align="center">
 	<i>
@@ -37,7 +39,7 @@
 </div>
 
 # :hammer_and_wrench: Languages and Tools :
-<div> 
+<div id="tools" align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
