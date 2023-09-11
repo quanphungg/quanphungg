@@ -1,7 +1,8 @@
-<div id="header" align="center">
+<header> 
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized-large.gif" width="100"/>
 </div>
-
+</header>
 <div id="badges" align="center">
 <a href="https://www.facebook.com/quandepptroai">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
