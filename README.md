@@ -37,6 +37,3 @@ You can connect to me by adding me on Facebook or Discord. ❞
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-
-# Idea source
-Based on https://www.sitepoint.com/github-profile-readme/
