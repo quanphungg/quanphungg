@@ -15,7 +15,7 @@
 </div>
 
 <div id="github-page-view" align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mialunn&style=flat-square&color=blue" alt=""/>
+	<img src="https://komarev.com/ghpvc/?username=quanphungg&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="hello-message" align="center">
